@@ -1,0 +1,6 @@
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\SomePrimes\bin\Debug\SomePrimes.exe.config
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\SomePrimes\bin\Debug\SomePrimes.exe
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\SomePrimes\bin\Debug\SomePrimes.pdb
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\SomePrimes\obj\Debug\01.SomePrimes.csprojResolveAssemblyReference.cache
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\SomePrimes\obj\Debug\SomePrimes.exe
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\SomePrimes\obj\Debug\SomePrimes.pdb

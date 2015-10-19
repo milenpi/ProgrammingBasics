@@ -1,0 +1,6 @@
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\LeastCommonMultiple\bin\Debug\LeastCommonMultiple.exe.config
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\LeastCommonMultiple\bin\Debug\LeastCommonMultiple.exe
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\LeastCommonMultiple\bin\Debug\LeastCommonMultiple.pdb
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\LeastCommonMultiple\obj\Debug\06.LeastCommonMultiple.csprojResolveAssemblyReference.cache
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\LeastCommonMultiple\obj\Debug\LeastCommonMultiple.exe
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\LeastCommonMultiple\obj\Debug\LeastCommonMultiple.pdb

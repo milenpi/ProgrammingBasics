@@ -1,0 +1,6 @@
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\SomeFibonacciPrimes\bin\Debug\SomeFibonacciPrimes.exe.config
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\SomeFibonacciPrimes\bin\Debug\SomeFibonacciPrimes.exe
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\SomeFibonacciPrimes\bin\Debug\SomeFibonacciPrimes.pdb
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\SomeFibonacciPrimes\obj\Debug\02.SomeFibonacciPrimes.csprojResolveAssemblyReference.cache
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\SomeFibonacciPrimes\obj\Debug\SomeFibonacciPrimes.exe
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\SomeFibonacciPrimes\obj\Debug\SomeFibonacciPrimes.pdb

@@ -1,0 +1,6 @@
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\NumberalSystemConversion\bin\Debug\NumberalSystemConversion.exe.config
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\NumberalSystemConversion\bin\Debug\NumberalSystemConversion.exe
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\NumberalSystemConversion\bin\Debug\NumberalSystemConversion.pdb
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\NumberalSystemConversion\obj\Debug\05.NumberalSystemConversion.csprojResolveAssemblyReference.cache
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\NumberalSystemConversion\obj\Debug\NumberalSystemConversion.exe
+C:\Users\miteval\OneDrive\SoftUni\01. Mathematics For Programmers\MathForProgrammers\NumberalSystemConversion\obj\Debug\NumberalSystemConversion.pdb
